@@ -1,0 +1,15 @@
+.introduction {
+  text-align: center;
+  display: inline-block;
+}
+
+.introduction-text {
+  margin-top: 35px;
+  margin-bottom: 0;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.introduction-text__quoted {
+  font-size: 14px;
+}
